@@ -1,4 +1,4 @@
-# coda_flutter_challenge
+# Coda Flutter challenge
 
 A Coda Flutter challenge.
 
